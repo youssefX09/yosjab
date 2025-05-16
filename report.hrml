@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>التقرير اليومي</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #2e4057;
+    }
+    .report {
+      margin-top: 30px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>التقرير اليومي</h1>
+  <div class="report">
+    <p><strong>الإيرادات من الأجهزة:</strong> 590.00 جنيه</p>
+    <p><strong>الإيرادات من المأكولات:</strong> 960.00 جنيه</p>
+    <p><strong>الإيرادات من المشروبات:</strong> 625.00 جنيه</p>
+    <hr>
+    <p><strong>الإجمالي:</strong> 2,175.00 جنيه</p>
+  </div>
+</body>
+</html>
